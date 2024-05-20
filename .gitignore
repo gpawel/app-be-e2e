@@ -2,9 +2,7 @@ target/
 
 ### IntelliJ IDEA ###
 .idea/
-
 .git/
-
 logs/
 build/
 bin/
